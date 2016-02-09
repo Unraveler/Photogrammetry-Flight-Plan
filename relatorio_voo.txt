@@ -1,0 +1,45 @@
+               RELATÓRIO PARA O PROJECTO DO PLANO DE VOO
+                   MESTRADO EM ENGENHARIA GEOGRÁFICA
+                   FOTOGRAMTERIA ANALÍTICA 2011/2012
+                   ---------------------------------
+---------------------------------------------------------
+DADOS
+Dimensões da area a levantar (em km): 3.909 x 2.794
+Cota média do terreno: 100.00
+Modulo da escala das fotografia: 8000.00
+Sobreposição longitudinal, em percentagem (l): 60
+Sobreposição lateral, em percentagem (q): 25
+Rumo de entrada da primeira fiada (em graus): 90.237
+Avião fotogramétrico utilizado: Beach/King Air
+Velocidade do voo (em km/h): 320.00
+Custo de cada hora de voo:  25.00 €
+Custo de cada fotografia: 2500.00 €
+Camara utilizada: Intergraph DMC
+---------------------------------------------------------
+RESULTADOS
+Altura do voo (em metros): 960.000000
+Lado do quadrado central (em metros): 0.036864
+Distância radial máxima do quadrado central (em metros): 0.026067
+Lado da foto no terreno, ao longo da fiada (em metros): 737.280
+Lado da foto no terreno, perpendicular à fiada (em metros): 1327.104
+Distância entre fiadas (em metros): 995.328
+Distância entre bases fotográficas (em metros): 294.912
+Numero de modelos por fiada: 14
+Numero de fotografias por fiada: 15
+Numero de fiadas: 3
+Tempo de voo em cada fiada (em segundos): 49.766
+Tempo de voo entre fiadas (em minutos): 5.000
+Necessária partição de fiadas?: Não é necessária partição de fiadas
+---------------------------------------------------------
+CUSTOS
+Custo total das fotos: 112500.00 €
+Custo total do voo:  749.30 €
+Custo total: 113249.30 €
+---------------------------------------------------------
+CORDENADAS DOS VÉRTICES QUE DEFINEM A ÁREA A LEVANTAR
+id                X                   Y
+1          484845.000          4290518.000
+2          488710.000          4290502.000
+3          488722.000          4287616.000
+4          484775.000          4287816.000
+---------------------------------------------------------
